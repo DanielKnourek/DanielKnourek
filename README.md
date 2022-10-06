@@ -6,8 +6,9 @@
 My name is Daniel Kňourek.  
 I am junior developer, tech enthusiast, science & science fiction fan.
 
-Creative gamer, and Factory engineer
-<code><img id="factorio-icon" src="icons/factorio-icon.png"></code>
+Gamer with creative muse, and Factory engineer
+<code><img height="15" src="icons/factorio-icon.png"></code>
+.
 
 ## What are my experience with
 
