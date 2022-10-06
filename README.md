@@ -1,4 +1,13 @@
-# Brief overview
+# About me
+
+<link href="icons/style.css" rel="stylesheet"></link>
+
+<big><b>Hi !</b></big>  
+My name is Daniel Kňourek.  
+I am junior developer, tech enthusiast, science & science fiction fan.
+
+Creative gamer, and Factory engineer
+<code><img id="factorio-icon" src="icons/factorio-icon.png"></code>
 
 ## What are my experience with
 
