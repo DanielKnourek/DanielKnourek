@@ -18,14 +18,12 @@ Javascript
   - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code> 
   Typescript (2021+)
   - Next.js (2021+)
-    - intermediate
   - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code> 
   React (2021+)
-    - intermediate
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" /></code> 
 PHP
   - general dynamic web pages
-  - school years 2017-2019
+  - 2 years
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code> 
 C#
   - 3 years on Střední Průmyslová škola Jičín
