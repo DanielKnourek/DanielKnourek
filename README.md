@@ -10,7 +10,7 @@ Gamer with creative muse, and Factory engineer
 <code><img height="15" src="icons/factorio-icon.png"></code>
 .
 
-## What I use for my dev
+## My go to workspace
 
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
   docker
@@ -28,7 +28,7 @@ Home lab k3s (TrueNAS scale)
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code> 
   IntelliJ IDEA, GoLand
 
-## My experience with
+## My dev experience with
 
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code> 
 JavaScript
@@ -64,7 +64,7 @@ C/C++
     - STM32
     - ESP32
 
-## other experience during studies
+## My experience during studies
 
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go" /></code> 
 GO
