@@ -4,7 +4,7 @@
 
 <big><b>Hi !</b></big>  
 My name is Daniel Kňourek.  
-I am full-stack developer, tech enthusiast, science & science fiction fan.
+I am a full-stack developer, tech enthusiast, science & science fiction fan.
 
 Gamer with creative muse, and Factory engineer
 <code><img height="15" src="icons/factorio-icon.png"></code>
