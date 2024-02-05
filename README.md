@@ -28,11 +28,10 @@ Home lab k3s (TrueNAS scale)
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code> 
   IntelliJ IDEA, GoLand
 
-## My dev experience with
+## My dev experience
 
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code> 
-JavaScript
-  - since secondary school (~2013+)
+JavaScript (~2013+)
   - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code> 
   TypeScript (2021+)
   - <code><img height="15" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" alt="Next.js" title="Next.js" /></code> 
@@ -43,7 +42,7 @@ JavaScript
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code> 
 Windows & automation
   - AHK scripts
-  - Powershel automation
+  - PowerShell automation
   - proficient OS knowledge
 
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" /></code> 
