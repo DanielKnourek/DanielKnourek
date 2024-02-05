@@ -4,7 +4,7 @@
 
 <big><b>Hi !</b></big>  
 My name is Daniel Kňourek.  
-I am junior developer, tech enthusiast, science & science fiction fan.
+I am full-stack developer, tech enthusiast, science & science fiction fan.
 
 Gamer with creative muse, and Factory engineer
 <code><img height="15" src="icons/factorio-icon.png"></code>
@@ -14,6 +14,7 @@ Gamer with creative muse, and Factory engineer
 
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
   docker
+
   - compose, build, inspect
   - default dev environment for most of my projects
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></code> 
@@ -22,6 +23,7 @@ Home lab k3s (TrueNAS scale)
   Git
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code> 
   VSCode, VS studio
+    
   - remote DEVcontainers
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code> 
   IntelliJ IDEA, GoLand
@@ -29,10 +31,10 @@ Home lab k3s (TrueNAS scale)
 ## My experience with
 
 - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code> 
-Javascript
+JavaScript
   - since secondary school (~2013+)
   - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code> 
-  Typescript (2021+)
+  TypeScript (2021+)
   - <code><img height="15" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" alt="Next.js" title="Next.js" /></code> 
   Next.js (2021+)
   - <code><img height="15" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code> 
